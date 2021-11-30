@@ -105,3 +105,5 @@ arduino = serial.Serial('com3',9600)
 
 igu.after(1,plot_datos)
 igu.mainloop()
+
+#Pruebajidjcid
